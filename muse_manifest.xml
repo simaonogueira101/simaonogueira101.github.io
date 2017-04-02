@@ -1,0 +1,136 @@
+<manifest alg="2" build="2017.0.1.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="poncedeleao.com,www.simaonogueira101.github.io,www.poncedeleao.com,www.poncedeleao.io" resolutions="1x" timestamp="1491091504306">
+  <folder name="css">
+    <file name="site_global.css" crc="30228815"/>
+    <file name="web.css" crc="196721057" ref="web"/>
+    <file name="projeto-shift.css" crc="3948416944" ref="projeto-shift"/>
+    <file name="sofia.css" crc="70419799" ref="sofia"/>
+    <file name="index.css" crc="469837797" ref="index"/>
+    <file name="dotworks.css" crc="3780792133" ref="dotworks"/>
+    <file name="eu.css" crc="3839967767" ref="eu"/>
+    <file name="livros-escolares.css" crc="475934775" ref="livros-escolares"/>
+    <file name="videos-fctuc.css" crc="470986795" ref="videos-fctuc"/>
+    <file name="flash.css" crc="35028646" ref="flash"/>
+    <file name="ae-esjf.css" crc="413898617" ref="ae-esjf"/>
+    <file name="color-madness.css" crc="226271521" ref="color-madness"/>
+    <file name="christmas-delight.css" crc="91441319" ref="christmas-delight"/>
+    <file name="about.css" crc="4035906990" ref="about"/>
+    <file name="klasika.css" crc="261358089" ref="klasika"/>
+    <file name="media.css" crc="4099411543" ref="media"/>
+    <file name="midnight-in-hell.css" crc="4034066879" ref="midnight-in-hell"/>
+    <file name="nena-dj.css" crc="4107070206" ref="nena-dj"/>
+    <file name="brand.css" crc="8855197" ref="brand"/>
+    <file name="carros-da-queima.css" crc="202992315" ref="carros-da-queima"/>
+  </folder>
+  <folder name="assets">
+    <file name="facebookvideowidget_creativated.mulib" crc="3762961662" seo="true" mt="1490709428000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:about:media:brand:web:dotworks:videos-fctuc:color-madness:klasika:sofia:flash:livros-escolares:christmas-delight:ae-esjf:nena-dj:midnight-in-hell:carros-da-queima:projeto-shift:eu"/>
+    <file name="museutils.js" crc="4148063285" ref="index:about:media:brand:web:dotworks:videos-fctuc:color-madness:klasika:sofia:flash:livros-escolares:christmas-delight:ae-esjf:nena-dj:midnight-in-hell:carros-da-queima:projeto-shift:eu"/>
+    <file name="whatinput.js" crc="86476730" ref="index:about:media:brand:web:dotworks:videos-fctuc:color-madness:klasika:sofia:flash:livros-escolares:christmas-delight:ae-esjf:nena-dj:midnight-in-hell:carros-da-queima:projeto-shift:eu"/>
+    <file name="museconfig.js" crc="4179431180" ref="index:about:media:brand:web:dotworks:videos-fctuc:color-madness:klasika:sofia:flash:livros-escolares:christmas-delight:ae-esjf:nena-dj:midnight-in-hell:carros-da-queima:projeto-shift:eu"/>
+    <file name="jquery.watch.js" crc="437028206" ref="index:about:media:brand:web:dotworks:videos-fctuc:color-madness:klasika:sofia:flash:livros-escolares:christmas-delight:ae-esjf:nena-dj:midnight-in-hell:carros-da-queima:projeto-shift:eu"/>
+    <file name="jquery.scrolleffects.js" crc="3801019579" ref="index"/>
+    <file name="require.js" crc="4159430777" ref="index:about:media:brand:web:dotworks:videos-fctuc:color-madness:klasika:sofia:flash:livros-escolares:christmas-delight:ae-esjf:nena-dj:midnight-in-hell:carros-da-queima:projeto-shift:eu"/>
+    <file name="webpro.js" crc="3986320349" ref="dotworks:klasika:nena-dj:carros-da-queima:projeto-shift"/>
+    <file name="musewpslideshow.js" crc="405464237" ref="dotworks:klasika:nena-dj:carros-da-queima:projeto-shift"/>
+    <file name="jquery.museoverlay.js" crc="305414130" ref="dotworks:klasika:nena-dj:carros-da-queima:projeto-shift"/>
+    <file name="touchswipe.js" crc="221459597" ref="dotworks:klasika:nena-dj:carros-da-queima:projeto-shift"/>
+  </folder>
+  <folder name="images">
+    <file name="kraken.gif" crc="420255666" seo="true" ref="index:about:media:brand:web:dotworks:videos-fctuc:color-madness:klasika:sofia:flash:livros-escolares:christmas-delight:ae-esjf:nena-dj:midnight-in-hell:carros-da-queima:projeto-shift:eu"/>
+    <file name="simao.jpg" crc="471048527" seo="true" ref="about"/>
+    <file name="joao.jpg" crc="108656704" seo="true" ref="about"/>
+    <file name="1.jpg" crc="17034683" seo="true" ref="dotworks"/>
+    <file name="blank.gif" crc="4208392903" ref="dotworks:klasika:nena-dj:carros-da-queima:projeto-shift"/>
+    <file name="2.jpg" crc="422174168" seo="true" ref="dotworks"/>
+    <file name="3.jpg" crc="4109540588" seo="true" ref="dotworks"/>
+    <file name="5.jpg" crc="511837431" seo="true" ref="dotworks"/>
+    <file name="6.jpg" crc="297915227" seo="true" ref="dotworks"/>
+    <file name="7.jpg" crc="448999897" seo="true" ref="dotworks"/>
+    <file name="8.jpg" crc="318751714" seo="true" ref="dotworks"/>
+    <file name="9.jpg" crc="66596588" seo="true" ref="dotworks"/>
+    <file name="1-crop-u3896.jpg" crc="271174010" ref="dotworks"/>
+    <file name="2-crop-u4066.jpg" crc="4293563586" ref="dotworks"/>
+    <file name="368x45.jpg" crc="4202643596" seo="true" ref="dotworks"/>
+    <file name="568x45.jpg" crc="4099824303" seo="true" ref="dotworks"/>
+    <file name="668x45.jpg" crc="266362859" seo="true" ref="dotworks"/>
+    <file name="7-crop-u4170.jpg" crc="3768345460" ref="dotworks"/>
+    <file name="8-crop-u4196.jpg" crc="3958925738" ref="dotworks"/>
+    <file name="9-crop-u4222.jpg" crc="4164250260" ref="dotworks"/>
+    <file name="loading.gif" crc="3815509949" ref="dotworks:klasika:nena-dj:carros-da-queima:projeto-shift"/>
+    <file name="book1-page-002.jpg" crc="506016071" seo="true" ref="klasika"/>
+    <file name="book1-page-004.jpg" crc="470250086" seo="true" ref="klasika"/>
+    <file name="book1-page-006.jpg" crc="4231308256" seo="true" ref="klasika"/>
+    <file name="book12-page-007.jpg" crc="4259855158" seo="true" ref="klasika"/>
+    <file name="book13-page-009.jpg" crc="3795278038" seo="true" ref="klasika"/>
+    <file name="book13-page-0010.jpg" crc="398669503" seo="true" ref="klasika"/>
+    <file name="book13-page-011.jpg" crc="4211506470" seo="true" ref="klasika"/>
+    <file name="book1-page-00264x45.jpg" crc="269139813" seo="true" ref="klasika"/>
+    <file name="book1-page-00464x45.jpg" crc="287032248" seo="true" ref="klasika"/>
+    <file name="book1-page-00664x45.jpg" crc="3769728162" seo="true" ref="klasika"/>
+    <file name="book12-page-00764x45.jpg" crc="8941721" seo="true" ref="klasika"/>
+    <file name="book13-page-00964x45.jpg" crc="181279053" seo="true" ref="klasika"/>
+    <file name="book13-page-001064x45.jpg" crc="4214367324" seo="true" ref="klasika"/>
+    <file name="book13-page-01164x45.jpg" crc="309457110" seo="true" ref="klasika"/>
+    <file name="1463597_1684847511783599_1374458384405710679_n.jpg" crc="91734652" seo="true" ref="nena-dj"/>
+    <file name="12377590_1684853405116343_6023273002127417369_o.jpg" crc="4078991882" seo="true" ref="nena-dj"/>
+    <file name="12778808_1674887662779584_7117645738499622188_o.jpg" crc="218618748" seo="true" ref="nena-dj"/>
+    <file name="13116208_1214142315263336_1960297721946107402_o.jpg" crc="3989150423" seo="true" ref="nena-dj"/>
+    <file name="13131275_1214142395263328_2610454151651619858_o.jpg" crc="4212252682" seo="true" ref="nena-dj"/>
+    <file name="13173202_1214142078596693_5727933452151181467_o.jpg" crc="4133623008" seo="true" ref="nena-dj"/>
+    <file name="13217251_1214142505263317_5903538105030841929_o.jpg" crc="213204095" seo="true" ref="nena-dj"/>
+    <file name="13221359_1214142741929960_2623858267012296368_o.jpg" crc="203642912" seo="true" ref="nena-dj"/>
+    <file name="13235541_1214142235263344_3995095315218107569_o.jpg" crc="162288726" seo="true" ref="nena-dj"/>
+    <file name="13243954_1214142301930004_3579590903472646619_o.jpg" crc="411290542" seo="true" ref="nena-dj"/>
+    <file name="1463597_1684847511783599_1374458384405710679_n-crop-u5374.jpg" crc="4072240001" ref="nena-dj"/>
+    <file name="12377590_1684853405116343_6023273002127417369_o-crop-u5394.jpg" crc="133609031" ref="nena-dj"/>
+    <file name="12778808_1674887662779584_7117645738499622188_o-crop-u5414.jpg" crc="459605612" ref="nena-dj"/>
+    <file name="13116208_1214142315263336_1960297721946107402_o68x45.jpg" crc="528169198" seo="true" ref="nena-dj"/>
+    <file name="13131275_1214142395263328_2610454151651619858_o68x45.jpg" crc="439471096" seo="true" ref="nena-dj"/>
+    <file name="13173202_1214142078596693_5727933452151181467_o-crop-u5474.jpg" crc="4181661582" ref="nena-dj"/>
+    <file name="13217251_1214142505263317_5903538105030841929_o68x45.jpg" crc="3940060810" seo="true" ref="nena-dj"/>
+    <file name="13221359_1214142741929960_2623858267012296368_o68x45.jpg" crc="318158103" seo="true" ref="nena-dj"/>
+    <file name="13235541_1214142235263344_3995095315218107569_o68x45.jpg" crc="260085465" seo="true" ref="nena-dj"/>
+    <file name="13243954_1214142301930004_3579590903472646619_o68x45.jpg" crc="4170836065" seo="true" ref="nena-dj"/>
+    <file name="screen shot 2017-03-30 at 211202.jpg" crc="50189417" seo="true" ref="carros-da-queima"/>
+    <file name="screen shot 2017-03-30 at 211246.jpg" crc="106592452" seo="true" ref="carros-da-queima"/>
+    <file name="screen shot 2017-03-30 at 211334.jpg" crc="267215091" seo="true" ref="carros-da-queima"/>
+    <file name="screen shot 2017-03-30 at 211339.jpg" crc="4014726780" seo="true" ref="carros-da-queima"/>
+    <file name="screen shot 2017-03-30 at 211346.jpg" crc="453103656" seo="true" ref="carros-da-queima"/>
+    <file name="screen shot 2017-03-30 at 211353.jpg" crc="3859086722" seo="true" ref="carros-da-queima"/>
+    <file name="screen shot 2017-03-30 at 21120272x45.jpg" crc="3782945276" seo="true" ref="carros-da-queima"/>
+    <file name="screen shot 2017-03-30 at 21124672x45.jpg" crc="79297958" seo="true" ref="carros-da-queima"/>
+    <file name="screen shot 2017-03-30 at 21133472x45.jpg" crc="4210211491" seo="true" ref="carros-da-queima"/>
+    <file name="screen shot 2017-03-30 at 21133972x45.jpg" crc="164307699" seo="true" ref="carros-da-queima"/>
+    <file name="screen shot 2017-03-30 at 21134672x45.jpg" crc="247796" seo="true" ref="carros-da-queima"/>
+    <file name="screen shot 2017-03-30 at 21135372x45.jpg" crc="500148986" seo="true" ref="carros-da-queima"/>
+    <file name="17692273_1493107300700888_1563382161_o.jpg" crc="144779668" seo="true" ref="projeto-shift"/>
+    <file name="17692301_1493107274034224_1637694609_o.jpg" crc="4080686535" seo="true" ref="projeto-shift"/>
+    <file name="17692432_1493107277367557_5667377_o.jpg" crc="471569718" seo="true" ref="projeto-shift"/>
+    <file name="17692451_1493107264034225_100531615_o.jpg" crc="225681416" seo="true" ref="projeto-shift"/>
+    <file name="17692273_1493107300700888_1563382161_o72x45.jpg" crc="66535735" seo="true" ref="projeto-shift"/>
+    <file name="17692301_1493107274034224_1637694609_o72x45.jpg" crc="4015565444" seo="true" ref="projeto-shift"/>
+    <file name="17692432_1493107277367557_5667377_o72x45.jpg" crc="4075866681" seo="true" ref="projeto-shift"/>
+    <file name="17692451_1493107264034225_100531615_o72x45.jpg" crc="4085606820" seo="true" ref="projeto-shift"/>
+  </folder>
+  <file name="index.html" crc="311023758" seo="true" mt="1491090480866" redirect="true"/>
+  <file name="about.html" crc="3926828187" seo="true" mt="1491089124281" redirect="true"/>
+  <file name="media.html" crc="3775487053" seo="true" mt="1491089797407" redirect="true"/>
+  <file name="brand.html" crc="3779780480" seo="true" mt="1491090414390" redirect="true"/>
+  <file name="web.html" crc="331679976" seo="true" mt="1491090203613" redirect="true"/>
+  <file name="dotworks.html" crc="329249773" seo="true" mt="1491091361949" redirect="true"/>
+  <file name="videos-fctuc.html" crc="4185502268" seo="true" mt="1491089720148" redirect="true"/>
+  <file name="color-madness.html" crc="261051204" seo="true" mt="1491089879162" redirect="true"/>
+  <file name="klasika.html" crc="4247120244" seo="true" mt="1491089441384" redirect="true"/>
+  <file name="sofia.html" crc="498837160" seo="true" mt="1491089945612" redirect="true"/>
+  <file name="flash.html" crc="3783751048" seo="true" mt="1491089995947" redirect="true"/>
+  <file name="livros-escolares.html" crc="4098883111" seo="true" mt="1491090045287" redirect="true"/>
+  <file name="christmas-delight.html" crc="4108137285" seo="true" mt="1491090079175" redirect="true"/>
+  <file name="ae-esjf.html" crc="319324357" seo="true" mt="1491090186020" redirect="true"/>
+  <file name="nena-dj.html" crc="347214830" seo="true" mt="1491089602992" redirect="true"/>
+  <file name="midnight-in-hell.html" crc="6994002" seo="true" mt="1491090131305" redirect="true"/>
+  <file name="carros-da-queima.html" crc="264290297" seo="true" mt="1491090270285" redirect="true"/>
+  <file name="projeto-shift.html" crc="13547025" seo="true" mt="1491090345600" redirect="true"/>
+  <file name="eu.html" crc="3763540658" seo="true" mt="1491090392251" redirect="true"/>
+</manifest>
