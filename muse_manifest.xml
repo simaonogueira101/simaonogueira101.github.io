@@ -1,10 +1,10 @@
-<manifest alg="2" build="2017.0.1.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="simaonogueira101.github.io" resolutions="1x" timestamp="1493401850583">
+<manifest alg="2" build="2017.0.1.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="simaonogueira101.github.io" resolutions="1x" timestamp="1493402139459">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
     <file name="index.css" crc="4276871426" ref="index"/>
     <file name="log-in.css" crc="246610197" ref="log-in"/>
     <file name="feed-copy.css" crc="203761261" ref="feed-copy"/>
-    <file name="feed.css" crc="4284511933" ref="feed"/>
+    <file name="feed.css" crc="3976520990" ref="feed"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:log-in:feed:feed-copy"/>
@@ -85,7 +85,7 @@
     <file name="nabo006.jpg" crc="183660529" seo="true" ref="feed-copy"/>
   </folder>
   <file name="index.html" crc="3851544462" seo="true" mt="1493395206396" redirect="true"/>
-  <file name="log-in.html" crc="282226425" seo="true" mt="1493389837365" redirect="true"/>
-  <file name="feed.html" crc="522556924" seo="true" mt="1493401753061" redirect="true"/>
-  <file name="feed-copy.html" crc="213386074" seo="true" mt="1493396611938" redirect="true"/>
+  <file name="log-in.html" crc="3845767942" seo="true" mt="1493389837365" redirect="true"/>
+  <file name="feed.html" crc="2491133" seo="true" mt="1493402123053" redirect="true"/>
+  <file name="feed-copy.html" crc="4038203539" seo="true" mt="1493396611938" redirect="true"/>
 </manifest>
